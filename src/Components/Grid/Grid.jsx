@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Card from "../Card/card";
+import Card from "../Card/Card";
 import "./Grid.css";
 import isWinner from "../Helpers/checkWinner";
 
